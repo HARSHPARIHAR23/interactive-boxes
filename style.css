@@ -39,7 +39,7 @@
   }
   
   .box.expanded .box-content {
-    max-height: 150px; /* Enough space for dropdowns */
+    max-height: 150px; 
   }
   
   .options {
